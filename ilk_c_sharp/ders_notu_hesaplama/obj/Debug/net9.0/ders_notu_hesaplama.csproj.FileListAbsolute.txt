@@ -1,0 +1,14 @@
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\bin\Debug\net9.0\ders_notu_hesaplama.exe
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\bin\Debug\net9.0\ders_notu_hesaplama.deps.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\bin\Debug\net9.0\ders_notu_hesaplama.runtimeconfig.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\bin\Debug\net9.0\ders_notu_hesaplama.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\bin\Debug\net9.0\ders_notu_hesaplama.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.AssemblyInfoInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.AssemblyInfo.cs
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.csproj.CoreCompileInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\refint\ders_notu_hesaplama.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ders_notu_hesaplama.genruntimeconfig.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\ders_notu_hesaplama\obj\Debug\net9.0\ref\ders_notu_hesaplama.dll
