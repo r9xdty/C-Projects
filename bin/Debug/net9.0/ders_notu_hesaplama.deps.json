@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ders_notu_hesaplama/1.0.0": {
+        "runtime": {
+          "ders_notu_hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ders_notu_hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
