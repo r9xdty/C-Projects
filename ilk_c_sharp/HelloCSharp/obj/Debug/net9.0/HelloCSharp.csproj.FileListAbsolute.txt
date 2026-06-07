@@ -1,0 +1,14 @@
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.exe
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.deps.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.runtimeconfig.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\bin\Debug\net9.0\HelloCSharp.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfoInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.AssemblyInfo.cs
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.csproj.CoreCompileInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\refint\HelloCSharp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\HelloCSharp.genruntimeconfig.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\HelloCSharp\obj\Debug\net9.0\ref\HelloCSharp.dll

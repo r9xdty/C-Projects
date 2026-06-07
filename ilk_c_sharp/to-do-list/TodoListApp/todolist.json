@@ -1,0 +1,14 @@
+[
+  {
+    "Gorev": "VS Code ile C# öğrenmek",
+    "Tamamlandi": true
+  },
+  {
+    "Gorev": "To-Do List uygulaması yapmak",
+    "Tamamlandi": false
+  },
+  {
+    "Gorev": "Git öğrenmek",
+    "Tamamlandi": false
+  }
+]

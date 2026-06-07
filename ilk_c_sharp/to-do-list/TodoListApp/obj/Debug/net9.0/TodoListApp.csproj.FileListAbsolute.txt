@@ -1,0 +1,17 @@
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\TodoListApp.exe
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\TodoListApp.deps.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\TodoListApp.runtimeconfig.json
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\TodoListApp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\TodoListApp.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.csproj.AssemblyReference.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.AssemblyInfoInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.AssemblyInfo.cs
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.csproj.CoreCompileInputs.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoList.18596B52.Up2Date
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\refint\TodoListApp.dll
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.pdb
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\TodoListApp.genruntimeconfig.cache
+D:\VS Projelerim\0dan C#\ilk_c_sharp\to-do-list\TodoListApp\obj\Debug\net9.0\ref\TodoListApp.dll
